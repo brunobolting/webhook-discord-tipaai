@@ -1,0 +1,18 @@
+{
+  "name": "webhook-discord-tipaai",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "run-dev": "node dev/index.js"
+  },
+  "keywords": [],
+  "author": "bruno@bolting.dev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parse": "^0.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
